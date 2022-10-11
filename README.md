@@ -18,3 +18,19 @@ The idea is to make it less complicated for uneducated and unemployed people to 
 2- retired people 
 3- inmates
 4- uneducated
+
+Candidate 
+Process:
+Sign in 
+Login 
+Make profile 
+Choose area
+Determine his simple experience 
+
+Manger (function:recruitment) 
+Process:
+Sign in 
+Login 
+Search for the area 
+Choose the jop statement 
+Select
