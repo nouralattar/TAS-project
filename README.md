@@ -1,11 +1,11 @@
--overview: 
+**-overview:**
 We found that the biggest problem of society is unemployment and there is no application that cares about undecat people
 for sure we all seek to help and serve our society so we well try to do our best to find solutions and help those people to be able to improve their lives and their society and We make a project of a mobile application with which we try to solve the problem of unemployment by matching the owners of small businesses to those who are looking for work and this application is more dedicated to informal work whether and for those who want to provide their income next to their job or student or for uneducated people. 
 
--Problem statement :
+**-Problem statement :**
 The idea is to make it less complicated for uneducated and unemployed people to find jobs and more opportunities without the need of cvs or interviews and help them raise their income with less experience
 
-- objective :
+**- objective :**
 ●Offering job opportunities for unemployed people 
 ● Help the government to reduce unemployment
 ●Providing different fields of work that help people to gain different skills and experiences
@@ -13,13 +13,13 @@ The idea is to make it less complicated for uneducated and unemployed people to 
 ● Our application provides all kinds of work which will help fresh graduates to find the suitable job for them or employees who wish to change his track or learn new skills besides his job
 ●The program also provides job  opportunities such as a craft or a job that does not require a retirement age or a university degree.
 
--Stakeholder:
+**-Stakeholder:**
 1- undergraduates 
 2- retired people 
 3- inmates
 4- uneducated
 
-Candidate 
+user
 Process:
 Sign in 
 Login 
@@ -34,11 +34,16 @@ Login
 Search for the area 
 Choose the jop statement 
 Select
-#ERD
+
+
+
+**ERD**
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/110172723/195984967-c3fb24f9-0421-47c0-9d80-26c1bd963c78.png">
-#Use case diagram 
+
+**Use case diagram** 
 <img width="423" alt="image" src="https://user-images.githubusercontent.com/110172723/195985255-bbf83464-4e32-47f4-aa8e-5f54a751fb84.png">
-#Context diagram
+
+**Context diagram**
 <img width="681" alt="image" src="https://user-images.githubusercontent.com/110172723/195985276-b84baa6b-448d-4f6d-afbf-a7f1fabc2d6f.png">
 
 
