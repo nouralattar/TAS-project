@@ -34,5 +34,12 @@ Login
 Search for the area 
 Choose the jop statement 
 Select
+#ERD
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/110172723/195984967-c3fb24f9-0421-47c0-9d80-26c1bd963c78.png">
+#Use case diagram 
+<img width="423" alt="image" src="https://user-images.githubusercontent.com/110172723/195985255-bbf83464-4e32-47f4-aa8e-5f54a751fb84.png">
+#Context diagram
+<img width="681" alt="image" src="https://user-images.githubusercontent.com/110172723/195985276-b84baa6b-448d-4f6d-afbf-a7f1fabc2d6f.png">
+
+
 
